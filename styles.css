@@ -11,13 +11,13 @@ hr {
 img {
     width:300px;
     height:300px;
-    background-color: red;
+    background-color: rgb(62, 115, 231);
 }
 
 img:hover {
-    background-color: green;
-    width:200px;
-    height:200px;
+    background-color: rgb(34, 178, 204);
+    width:250px;
+    height:250px;
 }
 
 h1{
@@ -29,4 +29,31 @@ h3{
 
 .contacto{
     font-size: 10px;
+}body {
+    background-color:#daffcdf8;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #656be7;
+    border-width: 3px;
+    width: 30%;
+}
+img {
+    width:300px;
+    height:300px;
+    background-color: rgb(62, 115, 231);
+}
+
+img:hover {
+    background-color: rgb(34, 178, 204);
+    width:250px;
+    height:250px;
+}
+
+h1{
+    color: #0cafc4;
+}
+h3{
+    color:#1778d2;
 }
